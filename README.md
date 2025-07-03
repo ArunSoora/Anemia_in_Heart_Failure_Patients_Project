@@ -1,5 +1,5 @@
 
-# A Prospective Study: Anemia in Heart Failure Patients
+# A Prospective Study: Prevalence and Treatment of Anemia in Heart Failure Patients
 
 This repository contains the final PharmD research project focused on the evaluation and management of iron-deficiency anemia in patients with heart failure. The study was conducted using clinical diagnostics and patient monitoring methods.
 
